@@ -1,0 +1,219 @@
+Player
+   150
+   455
+Square
+   0
+   0
+   BLACK
+   true
+   null
+Square
+   100
+   0
+   WHITE
+   true
+   null
+Square
+   200
+   0
+   BLACK
+   true
+   null
+Square
+   300
+   0
+   WHITE
+   true
+   null
+Square
+   400
+   0
+   DIMGRAY
+   false
+   null
+Square
+   500
+   0
+   DIMGRAY
+   false
+   null
+Square
+   0
+   100
+   WHITE
+   true
+   null
+Square
+   100
+   100
+   BLACK
+   true
+   null
+Square
+   200
+   100
+   WHITE
+   true
+   null
+Square
+   300
+   100
+   BLACK
+   true
+   null
+Square
+   400
+   100
+   DIMGRAY
+   false
+   null
+Square
+   500
+   100
+   DIMGRAY
+   false
+   null
+Square
+   0
+   200
+   BLACK
+   true
+   null
+Square
+   100
+   200
+   WHITE
+   true
+   null
+Square
+   200
+   200
+   BLACK
+   true
+   null
+Square
+   300
+   200
+   WHITE
+   true
+   null
+Square
+   400
+   200
+   DIMGRAY
+   false
+   null
+Square
+   500
+   200
+   DIMGRAY
+   false
+   null
+Square
+   0
+   300
+   WHITE
+   true
+   null
+Square
+   100
+   300
+   BLACK
+   true
+   null
+Square
+   200
+   300
+   WHITE
+   true
+   null
+Square
+   300
+   300
+   BLACK
+   true
+   null
+Square
+   400
+   300
+   DIMGRAY
+   false
+   null
+Square
+   500
+   300
+   DIMGRAY
+   false
+   null
+Square
+   0
+   400
+   BLACK
+   true
+   null
+Square
+   100
+   400
+   WHITE
+   true
+   null
+Square
+   200
+   400
+   BLACK
+   true
+   null
+Square
+   300
+   400
+   WHITE
+   true
+   null
+Square
+   400
+   400
+   DIMGRAY
+   false
+   null
+Square
+   500
+   400
+   DIMGRAY
+   false
+   null
+Square
+   0
+   500
+   WHITE
+   true
+   null
+Square
+   100
+   500
+   BLACK
+   true
+   null
+Square
+   200
+   500
+   WHITE
+   true
+   null
+Square
+   300
+   500
+   BLACK
+   true
+   null
+Square
+   400
+   500
+   DIMGRAY
+   false
+   null
+Square
+   500
+   500
+   DIMGRAY
+   false
+   null 

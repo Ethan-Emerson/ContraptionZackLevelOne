@@ -1,0 +1,77 @@
+#Format to use the variables that the client will be reading in
+#Feel free to edit or add anything new, but let the group know so then can pull
+#Format follows: The name of the variable is the type of data that the program will pull in next
+
+Square (square format)
+	xposition (int)
+	yposition (int)
+	canWalk (boolean)
+	Color (JavaFX format)
+	Type (String) (ex. Spring/t, button, spikes, wall, door, tool, lever, electric, machine). 
+	#If type is defined#
+		#Other variables relevant to the the type of object please see object description##
+    
+Spring
+	up/down (boolean)
+	timeout (boolean)
+	if true
+		seconds (int)
+Button
+   color (JavaFX Format)
+	up/down (boolean)
+	timeout (boolean)
+	if true
+		seconds (int)
+Spike
+   color (JavaFx Format)
+	up/down (boolean)
+	timeout (boolean)
+		if true
+			seconds (int)
+	
+Wall
+   color (javaFX Format)
+	static (boolean) #as in does the wall open and close
+	if true
+		seconds (int)
+Door
+	RoomLink (string) #string that links to the next or previous room
+Lever
+	up/down (boolean)
+Electric
+	on/off (boolean)
+Tool
+   type (string)
+   if ScrewDriver
+      hasScrewDriver = true   
+Machine
+   on/off (boolean)
+	
+Ex.
+Square
+	10
+	15
+	RED
+	Door
+		Room2
+
+Spring
+boolean isUp
+boolean timeout
+int x
+int y 
+            
+Button
+boolean isPressed
+boolean hasTimeout 
+long duration -> 1000 = 1 second 
+int x 
+int y 
+
+Spike
+boolean isUp 
+boolean timeout 
+int x 
+int y 
+   
+  
